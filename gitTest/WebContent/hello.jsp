@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h2>Hello Git !!!</h2>
+	<h5>충돌 테스트 </h5>
 </body>
 </html>
